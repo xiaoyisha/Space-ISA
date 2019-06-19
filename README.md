@@ -1,1 +1,1 @@
-My first personal page~
+<img src="/logo.jpg" width="100%"> 
